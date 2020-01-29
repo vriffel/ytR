@@ -1,0 +1,17 @@
+Package: Ryt
+Type: Package
+Title: RYouTube
+Version: 0.1
+Date: 2019-12-14
+Author: Vinicius Ricardo Riffel [aut, cre]
+Maintainer: Vinicius Ricardo Riffel <viniciusricardoriffel@gmail.com>
+Authors@R: person(c("Vinicius", "Ricardo"), "Riffel", role = c("aut", "cre"), email = "viniciusricardoriffel@gmail.com")
+Description: This package allows you to download and edit YouTube videos.
+Depends:
+    R (>= 3.5.0)
+License: GPL-3
+LazyData: TRUE
+URL: https://github.com/vriffel/Ryt
+BugReports: https://github.com/vriffel/Ryt/issues
+Encoding: UTF-8
+RoxygenNote: 6.1.1
